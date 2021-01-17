@@ -20,7 +20,7 @@ private BottomNavigationView bottomNavigationView;
         setContentView(R.layout.activity_splash);
 
         bottomNavigationView = findViewById(R.id.bottomnav);
-        bottomNavigationView.setOnNavigationItemSelectedListener(bottomNavMethod);
+        //bottomNavigationView.setOnNavigationItemSelectedListener(bottomNavMethod);
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -29,17 +29,17 @@ private BottomNavigationView bottomNavigationView;
             }
         }, 5000);
     }
-
+/*
 private BottomNavigationView.OnNavigationItemSelectedListener bottomNavMethod = new BottomNavigationView.OnNavigationItemSelectedListener() {
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         Fragment fragment =null;
-        /*switch(item.getItemId()){
+        switch(item.getItemId()){
             case R.id.cursos:
                 fragment = new AndroidFragment();
         }
-        */
+
         return false;
     }
-};
+};*/
 }
