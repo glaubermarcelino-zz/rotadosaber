@@ -39,4 +39,4 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - [Layout Mobile](https://www.figma.com/file/F6bOtBLHTNgUyGhl63aR5i/CCR---2%C2%BA-EDI%C3%87%C3%83O)
 
-Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong> <strong><a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino, </a></strong> <strong><a href="https://www.linkedin.com/in/vanessa-sousa-9a195386/">Vanessa Sousa</a></strong><strong><a href="https://www.linkedin.com/in/lucas-bergamin-8a44aa1a7/">Lucas Bergamin Dos Santos</a></strong>
+Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong> <strong><a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino, </a></strong> <strong><a href="https://www.linkedin.com/in/vanessa-sousa-9a195386/">Vanessa Sousa, </a></strong><strong><a href="https://www.linkedin.com/in/lucas-bergamin-8a44aa1a7/">Lucas Bergamin Dos Santos</a></strong>
